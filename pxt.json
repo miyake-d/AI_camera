@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "ai_camera.ts",
-        "i2c.cpp"
+        "i2c.cpp",
+        "shims.d.ts"
     ],
     "testFiles": [],
     "targetVersions": {
