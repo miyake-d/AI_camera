@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "ai_camera.ts"
+        "ai_camera.ts",
+        "i2c.cpp"
     ],
     "testFiles": [],
     "targetVersions": {
